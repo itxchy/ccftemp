@@ -8,5 +8,5 @@ That's it! Barebones, simple.
 
 This will give you HTML5 Boilerplate, along with Gulp running things, and BrowserSync creating a server and refreshing the browser for you. 
 
-I made this repo so that I can hit the ground running with a new web project. I'm still new at this. 
+I made this repo so that I can hit the ground running with a new web project.
  
