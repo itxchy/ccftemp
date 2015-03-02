@@ -1,8 +1,9 @@
 # fast-blank-website
 HTML5 Boilerplate with Gulp and BrowserSync ready for you. No fuss. Just start coding!
 
-1. npm install
-2. gulp serve
+1. clone this repo
+2. npm install
+3. gulp serve
 
 That's it! Barebones, simple. 
 
