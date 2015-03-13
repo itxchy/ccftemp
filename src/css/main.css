@@ -99,10 +99,24 @@ h1 {
     text-align: center;
 }
 
+body {
+    background: url(/img/background.jpg) no-repeat center center fixed;
+    color: white;
+}
 
 
+h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 2em;
+    text-align: center;
 
+/* NOT WORKING */
+.aside {
+    font-family: 'Lato', sans-serif;
+    font-size: 1.0em;
+    
 
+}
 
 
 
