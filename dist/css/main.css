@@ -101,13 +101,31 @@ h1 {
     text-align: center;
 }
 
+body {
+    background: url(/img/background.jpg) no-repeat center center fixed;
+    color: white;
+}
 
 
+h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 2em;
+    text-align: center;
+}
 
+/* .aside NOT WORKING */
+.aside {
+    font-family: 'Lato', sans-serif;
+    font-size: 1.0em;
+}
 
+.description > h1 {
+    text-shadow: 1px 1px 22px rgba(90, 90, 90, 1);
+}
 
-
-
+.name {
+    text-shadow: 1px 1px 22px rgba(90, 90, 90, 1);
+}
 
 
 
